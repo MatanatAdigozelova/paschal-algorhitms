@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\pascal alghoritm\bin\Debug\pascal alghoritm.exe.config
+C:\Users\user\Desktop\pascal alghoritm\bin\Debug\pascal alghoritm.exe
+C:\Users\user\Desktop\pascal alghoritm\bin\Debug\pascal alghoritm.pdb
+C:\Users\user\Desktop\pascal alghoritm\obj\Debug\pascal alghoritm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pascal alghoritm\obj\Debug\pascal alghoritm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pascal alghoritm\obj\Debug\pascal alghoritm.exe
+C:\Users\user\Desktop\pascal alghoritm\obj\Debug\pascal alghoritm.pdb
